@@ -105,5 +105,5 @@ Double check install instructions for both
 
 ## 🤓 Author(s)
 
-**Charly Keleb
+**n.srinithin inherited from
 CharlyKeleb** 
